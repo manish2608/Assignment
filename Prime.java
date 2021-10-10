@@ -17,7 +17,7 @@ public class Prime {
        int N=sc.nextInt();
        int i=0;
        int j=0;
-       String primeNumber=" ";
+       int primeNumber=0;
        for(i=1;i<=N;i++)
        {
            int counter=0;
