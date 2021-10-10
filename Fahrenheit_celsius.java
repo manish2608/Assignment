@@ -23,7 +23,7 @@ public class Fahrenheit_celsius {
         double celsius;
         for(i=S;i<=E;i=i+W){
             celsius=((5*(i-32.0))/9.0);
-            System.out.println(i+"  "+celsius);
+            System.out.println(i+"\t"+celsius);
        
         }
     }
